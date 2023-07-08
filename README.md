@@ -7,7 +7,7 @@
 - 💬 Ask me about Websites
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/muhammadqodir-alijonov-577472220/">[LinkedIn]</a>
-<a href="https://github.com/mukhammadqodir-alijonov/">[Github]</a>
+<a href="https://github.com/mukhammadkodir-alijonov/">[Github]</a>
 <a href="https://t.me/muhammadqodiralijonov">[Telegram]</a>
 <a href="https://www.instagram.com/mukhammadqodir_alijonov/">[Instagram]</a>
 
@@ -19,7 +19,7 @@
 
 <hr>
 
-## 🛠️ My favorite tools
+## 🛠️ My favourite tools
 
 ### 👨‍💻 Programming Languages
 
