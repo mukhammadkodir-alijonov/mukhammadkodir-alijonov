@@ -81,7 +81,7 @@
 <hr>
 <details open="">
   <p align="center">
-   <a href="https://github.com/mukhammadqodir-alijonov/mukhammadqodir-alijonov">
+   <a href="https://github.com/mukhammadkodir-alijonov/mukhammadqodir-alijonov">
        <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
