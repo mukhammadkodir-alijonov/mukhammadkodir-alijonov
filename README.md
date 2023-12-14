@@ -21,7 +21,7 @@
 ## 📊 Github Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=mukhammadkodir-alijonov&show_icons=true&theme=tokyonight&border=61dafb&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mukhammadkodir-alijonov&theme=tokyonight&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhammadkodir-alijonov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 <hr>
 
 ## 🛠️ My favorite tools
