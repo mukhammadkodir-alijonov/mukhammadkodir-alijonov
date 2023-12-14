@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Alijonov MuhammadQodir's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Welcome to Mukhammadkodir Alijonov's profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr>
 
@@ -6,10 +6,16 @@
 
 - 💬 Ask me about Websites
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/mukhammadkodir-alijonov-577472220/">[LinkedIn]</a>
-<a href="https://github.com/mukhammadkodir-alijonov/">[Github]</a>
-<a href="https://t.me/muhammadqodiralijonov">[Telegram]</a>
-<a href="https://www.instagram.com/mukhammadkodir_alijonov/">[Instagram]</a>
+## 🔗 Links
+
+<p align="left">
+  <a title="Gmail" href="mailto:alijonov0608@gmail.com"><img width="40" src="./gfx/icons/gmail.png"></a> 
+  <a title="Instagram" href="https://www.instagram.com/mukhammadkodir_alijonov/"><img width="40" src="./gfx/icons/instagram.png"></a> 
+  <a title="GitHub" href="https://github.com/mukhammadkodir-alijonov"><img width="40" src="./gfx/icons/github.png"></a> 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/mukhammadkodir-alijonov-577472220/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
+  <a title="LeetCode" href="https://leetcode.com/mukhammadkodir_alijonov/"><img width="35" src="./gfx/icons/leetcode.svg"></a>
+  <a title="Telegram" href="https://t.me/muhammadqodiralijonov"><img width="35" src="./gfx/icons/telegram.svg"></a>
+</p>
 
 
 ## 📊 Github Stats ⚡
@@ -19,11 +25,11 @@
 
 <hr>
 
-## 🛠️ My favourite tools
+## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages
 
-![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=amazon-dynamodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 
 ### 🧰 Frameworks and libraries
@@ -69,11 +75,11 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p>
-    <code><img width="10%" src="https://dotnet.microsoft.com/static/images/redesign/social/square.png"></code>
-    <code><img width="11%" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"></code>
-    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-    <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"></code>
+    <code><img width="12%" src="https://img.icons8.com/color/452/c-programming.png"></code>
+    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
+    <code><img width="11%" src="https://cdn.cdnlogo.com/logos/c/27/c.svg"></code>
+    <code><img width="10%" src="https://dotnet.microsoft.com/static/images/redesign/social/square.png"></code>
 </p>
 
 <p align="center">
@@ -81,8 +87,8 @@
 <hr>
 <details open="">
   <p align="center">
-   <a href="https://github.com/mukhammadkodir-alijonov/mukhammadqodir-alijonov">
-       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+   <a href="https://github.com/Abdullayevich/Abdullayevich">
+       <img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
   </p>
 </details>
 <hr>
