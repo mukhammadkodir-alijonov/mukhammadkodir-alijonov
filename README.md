@@ -14,7 +14,7 @@
   <a title="GitHub" href="https://github.com/mukhammadkodir-alijonov"><img width="40" src="./gfx/icons/github.png"></a> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/mukhammadkodir-alijonov-577472220/"><img width="40" src="./gfx/icons/linkedin.png"></a> 
   <a title="LeetCode" href="https://leetcode.com/mukhammadkodir_alijonov/"><img width="35" src="./gfx/icons/leetcode.svg"></a>
-  <a title="Telegram" href="https://t.me/muhammadqodiralijonov"><img width="35" src="./gfx/icons/telegram.svg"></a>
+  <a title="Telegram" href="https://t.me/mukhammadkodiralijonov"><img width="35" src="./gfx/icons/telegram.svg"></a>
 </p>
 
 
