@@ -59,8 +59,8 @@
         <img alt="PostgreSQL"
              src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
     <a href="#">
-        <img alt="SQLite"
-             src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sql&logoColor=white"/></a>
+        <img alt="PL/SQL"
+             src="https://img.shields.io/badge/PL/SQL-07405E?style=flat&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="MySql"
              src="https://img.shields.io/badge/mysql-DDD7D9?style=flat&logo=mysql&logoColor=black"/></a>
